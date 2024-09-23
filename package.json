@@ -1,0 +1,13 @@
+{
+  "name": "genealogy-health-platform",
+  "version": "1.0.0",
+  "description": "A simple platform to track family trees and associated health risks.",
+  "main": "backend/app.js",
+  "scripts": {
+    "start": "node backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
